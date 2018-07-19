@@ -2,9 +2,12 @@
 
 Her Skal eg vise deg korleis du får installert Git på Windows, Linux og Mac
 
+## Mac
+
+
 ## Linux
 
-På Linux så er som oftest Git forhands installert, 
+På Linux så er som oftest Git forhands installert,
 Du kan sjekke med å kjøre 
 
 ```Bash
@@ -18,15 +21,23 @@ apt update
 apt install git -y
 ```
 
-#### CentOS
+#### CentOS / Fedoraa
 
 
 ```bash
 yum install git
 ```
 
+Eller 
 
-Arch
+
+```bash
+sudo dnf install git
+```
+
+
+
+#### Arch
 
 ```bash
 
