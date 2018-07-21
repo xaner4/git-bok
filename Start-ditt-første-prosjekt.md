@@ -8,6 +8,16 @@ Gi Prosjekte ditt et navn og om Prosjekte ditt skal være synlig kun for deg, al
 Som vist her
 
 
+##### Rettighetter
+
+* Privat - Da er Prosjekte ditt kun tilgjengelig for kun deg eller for gruppen du lager prosjekte ditt under
+
+* Intern - Når Prosjektet ditt er internt så kan alle som er registeret seg på siden se prosjekte ditt
+
+* Offentlig - Når prosjektet ditt er offentlig så kan hele verden se prosjekte ditt (Som oftest må du / noen andre sende dei link for å finne det)
+
+P.S. Når Prosjekte ditt er offentlig så må du **IKKE** push noe kode med `API keys`, `Passord` eller annet sensetivt info 
+
 
 
 
