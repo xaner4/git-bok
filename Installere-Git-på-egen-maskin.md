@@ -21,18 +21,17 @@ apt update
 apt install git -y
 ```
 
-#### CentOS / Fedoraa
-
+#### RedHat/Fedora
 
 ```bash
-yum install git
+yum install git-core
 ```
 
 Eller 
 
 
 ```bash
-sudo dnf install git
+sudo dnf install git-core
 ```
 
 
