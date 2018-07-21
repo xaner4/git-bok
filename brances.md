@@ -1,0 +1,39 @@
+# <center> Git Branch </center>
+
+`Git Branch` er praktisk å bruke når det er flere som jobber på sammen kode eller du skal bygge noe større funksjoner som kan ha en "breaking" effekt på kode basen
+
+For å lage en ny branch så skriver du 
+
+```
+$ git checkout -b [navne-på-ny-branch]
+``` 
+
+Du kan og bytte mellom forskjellige brances med 
+
+```
+$ git checkout [Navn-på-eksiterende-branch]
+```
+
+Den branche du lagde der er kun en lokal branch fram til du kjører
+
+```
+$ git push origin [Navn-på-branch]
+```
+
+
+vist du vil vite hva brances som finnes så skriver du
+
+```
+$ git branch
+```
+Som vil vise deg
+
+```
+* Master 
+  en-annen-brance
+  endo-en-branch
+
+```
+
+Den brancen som har `*` er den branch du jobber på akkurat no
+
