@@ -9,3 +9,25 @@
 ### intermediate
 
 * [Git Brances](brances)
+
+
+
+## Wiki entryes som kommer (Ikke i noe rekefølge)
+
+- .gitignore
+- SSH Keys
+- Protoclore (HTTP(s) og SSH)
+- Fetch
+- show & log & status
+- Revert back
+- Flere Remotes
+
+- korleis handere API key og Passord i offfentlige prosjekter
+
+- Git Desktop (GUI)
+- VSCode
+
+- Oppgaver
+- Kor kan du lære mer?
+- Eksterne lese matrial
+- Cheat sheet 
