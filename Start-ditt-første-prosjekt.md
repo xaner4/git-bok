@@ -1,8 +1,11 @@
 # Slik begynner du!
 
-* Start et prosjekt på linken [https://git.errorsparty.no/projects/new]
+#### Start et prosjekt her [Nytt Prosjekt](https://git.errorsparty.no/projects/new)
 
+Gi Prosjekte ditt et navn og om Prosjekte ditt skal være synlig kun for deg, alle som er registrert på siden eller hele verden
 
+![2018-07-21_13_21_50-New_Project___GitLab](/uploads/b1f4ed88b975aa2984ea3685ca5e20f1/2018-07-21_13_21_50-New_Project___GitLab.png)
+Som vist her
 
 
 
