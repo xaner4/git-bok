@@ -4,7 +4,7 @@
 
 Gi Prosjekte ditt et navn og om Prosjekte ditt skal være synlig kun for deg, alle som er registrert på siden eller hele verden
 
-![2018-07-21_13_21_50-New_Project___GitLab](/uploads/2323b7e0ed1cf327994ada56d7cf0583/2018-07-21_13_21_50-New_Project___GitLab.png)
+![2018-07-21_13_21_50-New_Project___GitLab](/uploads/51f4f2e6777ebbee4107c247c2e85fbd/2018-07-21_13_21_50-New_Project___GitLab.png)
 Som vist her
 
 
