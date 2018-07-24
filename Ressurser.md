@@ -5,6 +5,7 @@ Her skjem eg til å reffere til andre nettsider som er bra for å enten lese gje
 
 https://try.github.io/
 
+https://chris.beams.io/posts/git-commit/
 
 
 
