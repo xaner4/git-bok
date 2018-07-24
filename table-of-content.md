@@ -14,20 +14,20 @@
 
 ## Wiki entryes som kommer (Ikke i noe rekefølge)
 
-- .gitignore
-- SSH Keys
-- Protoclore (HTTP(s) og SSH)
-- Fetch
-- show & log & status
-- Revert back
-- Flere Remotes
+- [] .gitignore
+- [] SSH Keys
+- [] Protoclore (HTTP(s) og SSH)
+- [] Fetch
+- [x] show & log & status
+- [] Revert back
+- [] Flere Remotes
 
-- korleis handere API key og Passord i offfentlige prosjekter
+- [] korleis handere API key og Passord i offentlige prosjekter
 
-- Git Desktop (GUI)
-- VSCode
+- [] Git Desktop (GUI)
+- [] VSCode
 
-- Oppgaver
-- Kor kan du lære mer?
-- Eksterne lese matrial
-- Cheat sheet 
+- [] Oppgaver
+- [x] Kor kan du lære mer?
+- [x] Eksterne lese matrial
+- [x] Cheat sheet 
